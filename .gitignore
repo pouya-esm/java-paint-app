@@ -1,0 +1,17 @@
+# Compiled class files and build output
+bin/
+build/
+dist/
+*.class
+
+# IDE metadata (local machine paths, not useful to share)
+.classpath
+.project
+.settings/
+nbproject/private/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
